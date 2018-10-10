@@ -1,0 +1,17 @@
+//
+//  ZLHtmlController.h
+//  ZLPrivacyPolicyDemo
+//
+//  Created by ZL on 2018/10/10.
+//  Copyright © 2018年 zl. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ZLHtmlController : UIViewController
+
+@end
+
+NS_ASSUME_NONNULL_END
